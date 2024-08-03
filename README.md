@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KISHORE K" alt="visitor badge"/>
 <br>
 <h1 align="left" style="margin-top: 30px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Heyy!!+I'm+praveenraam&color=8892BF" alt="nameIntro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=435&lines=Heyy!!+I'm+Kishore&color=8892BF" alt="nameIntro" />
 </h1>
 <h3 align="left"><strong>Student</strong></h3>
 <div align="left">
@@ -15,7 +15,7 @@
 
 <h3 align="left"><strong>Languages & Frameworks</strong></h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,c,js,react,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,mysql" />
 </p>
 <h3><strong>Tools</strong></h3>
   <img src="https://skillicons.dev/icons?i=github,git,figma,vscode" />
