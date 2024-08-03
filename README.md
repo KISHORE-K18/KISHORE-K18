@@ -23,7 +23,7 @@
 
 
 <hr>
-<h3 align="left"><strong>Github and Leetcode Stats </strong> </h3>
+<h3 align="left"><strong> Leetcode Stats </strong> </h3>
 
 <div align="left" style="padding: 20px;">
 
