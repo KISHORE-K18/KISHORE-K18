@@ -31,7 +31,6 @@
 
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/KISHORE-K18"><img src="https://github-readme-streak-stats.herokuapp.com?user=praveenraam&theme=dark&hide_border=true" alt="GitHub Streak" /></a><br><br>
 <a href="https://leetcode.com/u/Kishore_Kumarasamy/"><img src="https://leetcard.jacoblin.cool/Kishore_Kumarasamy" alt="leetcode stats"></a>
 
 </div>
