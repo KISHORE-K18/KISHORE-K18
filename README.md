@@ -7,7 +7,7 @@
 <div align="left">
   <p>🎓 Enrolled in B.E Mechanical Engineering at Bannari Amman Institute of Technology</p>
   <p>🧠 Passionate about Data Structures & Algorithms in Java</p>
-  <p>📚 Expanding my knowledge by learning Operating Systems</p>
+<!--   <p>📚 Expanding my knowledge by learning Operating Systems</p> -->
   <p>📧 Reach out to me at: <a href="mailto:kishorekumarasamy002@gmail.com">kishorekumarasamy002@gmail.com</a></p>
 </div>
 
