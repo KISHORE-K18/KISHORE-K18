@@ -15,10 +15,8 @@
 
 <h3 align="left"><strong>Languages & Frameworks</strong></h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=sql" />
-<img src="[https://skillicons.dev/icons?i=springboot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)" />
+<img src="https://skillicons.dev/icons?i=java,c,spring" />
+
 
 </p>
 <h3><strong>Tools</strong></h3>
